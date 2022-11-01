@@ -7,3 +7,9 @@ body{
     border-color: grey;
     border-width: 10px;
   }
+  h1{
+    color: goldenrod;
+  }
+  h3{
+    color: goldenrod;
+  }
